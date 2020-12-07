@@ -1,0 +1,9 @@
+E:\PROJECTS\TechnoBrain\ClassLibrary\Employees.Hierachy\bin\Debug\netcoreapp2.1\Employees.Hierachy.deps.json
+E:\PROJECTS\TechnoBrain\ClassLibrary\Employees.Hierachy\bin\Debug\netcoreapp2.1\Employees.Hierachy.dll
+E:\PROJECTS\TechnoBrain\ClassLibrary\Employees.Hierachy\bin\Debug\netcoreapp2.1\Employees.Hierachy.pdb
+E:\PROJECTS\TechnoBrain\ClassLibrary\Employees.Hierachy\obj\Debug\netcoreapp2.1\Employees.Hierachy.csprojAssemblyReference.cache
+E:\PROJECTS\TechnoBrain\ClassLibrary\Employees.Hierachy\obj\Debug\netcoreapp2.1\Employees.Hierachy.csproj.CoreCompileInputs.cache
+E:\PROJECTS\TechnoBrain\ClassLibrary\Employees.Hierachy\obj\Debug\netcoreapp2.1\Employees.Hierachy.AssemblyInfoInputs.cache
+E:\PROJECTS\TechnoBrain\ClassLibrary\Employees.Hierachy\obj\Debug\netcoreapp2.1\Employees.Hierachy.AssemblyInfo.cs
+E:\PROJECTS\TechnoBrain\ClassLibrary\Employees.Hierachy\obj\Debug\netcoreapp2.1\Employees.Hierachy.dll
+E:\PROJECTS\TechnoBrain\ClassLibrary\Employees.Hierachy\obj\Debug\netcoreapp2.1\Employees.Hierachy.pdb
